@@ -1,0 +1,733 @@
+{
+    "total": "4",
+    "limit": "1000",
+    "start": "0",
+    "data": [
+        {
+            "id": "6E127BF1-F2A9-4C59-90FA-C4BED53EA7F5",
+            "url": "https://www.nps.gov/acad/planyourvisit/blackwoods-campground.htm",
+            "name": "BROHAM Blackwoods Campground",
+            "parkCode": "acad",
+            "description": "Blackwoods Campground is located on the east side of Mount Desert Island, about 5 miles (8 km) south of Bar Harbor on Route 3. All sites at Blackwoods are wooded and within a 10-minute walk of the ocean. The majority of Blackwoods' sites are for small and large tents; other sites can accommodate travelers with RVs. Flush toilets, running water, and a dump station are provided, as are picnic tables and fire rings. Roads are paved.",
+            "latitude": "44.30894404258141",
+            "longitude": "-68.20988547018771",
+            "latLong": "{lat:44.30894404258141, lng:-68.20988547018771}",
+            "audioDescription": "Blackwoods Campground is located on the east side of Mount Desert Island, about 5 miles (8 km) south of Bar Harbor on Route 3. All sites at Blackwoods are wooded and within a 10-minute walk of the ocean. The majority of Blackwoods' sites are for small and large tents; other sites can accommodate travelers with RVs. Flush toilets, running water, and a dump station are provided, as are picnic tables and fire rings. Roads are paved.",
+            "isPassportStampLocation": "1",
+            "passportStampLocationDescription": "",
+            "passportStampImages": [],
+            "geometryPoiId": "",
+            "reservationInfo": "All Blackwoods campsites are reservable up to two months in advance. There are no first-come, first-serve sites. All campsites are by reservation only.",
+            "reservationUrl": "https://www.recreation.gov/camping/campgrounds/232508",
+            "regulationsurl": "https://www.recreation.gov/camping/campgrounds/232508",
+            "regulationsOverview": "All regulations are listed in the \"Need to Know\" section when making reservations on recreation.gov.",
+            "amenities": {
+                "trashRecyclingCollection": "No",
+                "toilets": [
+                    "Flush Toilets - seasonal"
+                ],
+                "internetConnectivity": "No",
+                "showers": [
+                    "None"
+                ],
+                "cellPhoneReception": "No",
+                "laundry": "No",
+                "amphitheater": "Yes - seasonal",
+                "dumpStation": "Yes - seasonal",
+                "campStore": "No",
+                "staffOrVolunteerHostOnsite": "Yes - seasonal",
+                "potableWater": [
+                    "Yes - seasonal"
+                ],
+                "iceAvailableForSale": "No",
+                "firewoodForSale": "No",
+                "foodStorageLockers": "No"
+            },
+            "contacts": {
+                "phoneNumbers": [
+                    {
+                        "phoneNumber": "207-288-3274",
+                        "description": "",
+                        "extension": "",
+                        "type": "Voice"
+                    }
+                ],
+                "emailAddresses": [
+                    {
+                        "description": "",
+                        "emailAddress": "acadia_information@nps.gov"
+                    }
+                ]
+            },
+            "fees": [
+                {
+                    "cost": "60.00",
+                    "description": "This is the nightly/daily rate for Group Tent Only Area - Non-electric sites. Park entrance fees are separate from campground fees. An entrance pass is required in the park and while staying in the campground.",
+                    "title": "Group Tent Only Area - Non-electric"
+                },
+                {
+                    "cost": "30.00",
+                    "description": "This is the nightly/daily rate for RV Non-electric sites. Park entrance fees are separate from campground fees. An entrance pass is required in the park and while staying in the campground.",
+                    "title": "RV Non-electric"
+                },
+                {
+                    "cost": "30.00",
+                    "description": "This is the nightly/daily rate for tent-only sites. Park entrance fees are separate from campground fees. An entrance pass is required in the park and while staying in the campground.",
+                    "title": "Tent Only Non-electric"
+                }
+            ],
+            "directionsOverview": "The entrance to Blackwoods Campground is off of State Highway 3, six miles south of Bar Harbor. There is no entrance to the campground from Acadia National Park's Park Loop Rd. The Park Loop Rd. has several low bridges and the majority of it is one way traffic; do not enter any entrances with a vehicle or equipment that is 10'4\" or more.",
+            "directionsUrl": "",
+            "operatingHours": [
+                {
+                    "exceptions": [
+                        {
+                            "exceptionHours": {
+                                "wednesday": "Closed",
+                                "monday": "Closed",
+                                "thursday": "Closed",
+                                "sunday": "Closed",
+                                "tuesday": "Closed",
+                                "friday": "Closed",
+                                "saturday": "Closed"
+                            },
+                            "startDate": "2022-10-18",
+                            "name": "Off Season",
+                            "endDate": "2023-05-05"
+                        }
+                    ],
+                    "description": "Blackwoods Campground facility is open seasonally, usually from early May to mid-October.",
+                    "standardHours": {
+                        "wednesday": "All Day",
+                        "monday": "All Day",
+                        "thursday": "All Day",
+                        "sunday": "All Day",
+                        "tuesday": "All Day",
+                        "friday": "All Day",
+                        "saturday": "All Day"
+                    },
+                    "name": "Blackwoods Campground"
+                }
+            ],
+            "addresses": [
+                {
+                    "postalCode": "04660",
+                    "city": "Otter Creek",
+                    "stateCode": "ME",
+                    "line1": "155 Blackwoods Drive",
+                    "type": "Physical",
+                    "line3": "",
+                    "line2": ""
+                },
+                {
+                    "postalCode": "04609",
+                    "city": "Bar Harbor",
+                    "stateCode": "ME",
+                    "line1": "PO Box 177",
+                    "type": "Mailing",
+                    "line3": "",
+                    "line2": ""
+                }
+            ],
+            "images": [
+                {
+                    "credit": "NPS Photo",
+                    "crops": [],
+                    "title": "Blackwoods Campground Ranger Station",
+                    "altText": "A wooden building with a flag pole and signs",
+                    "caption": "",
+                    "url": "https://www.nps.gov/common/uploads/structured_data/903C0CC8-D26A-9016-87F0A4779F6F59DA.jpg"
+                },
+                {
+                    "credit": "NPS Photo",
+                    "crops": [],
+                    "title": "Blackwoods Campground Amphitheater",
+                    "altText": "Wooden amphitheater stage with wooden benches",
+                    "caption": "Park rangers host programs at the amphitheater during peak season",
+                    "url": "https://www.nps.gov/common/uploads/structured_data/221E0769-F61D-1F1E-835FA0893B4A88A7.jpg"
+                },
+                {
+                    "credit": "NPS Photo",
+                    "crops": [],
+                    "title": "Island Explorer bus stop",
+                    "altText": "Wooden bus stop shelter",
+                    "caption": "Campers can ride free Island Explorer shuttle buses to access areas of the park",
+                    "url": "https://www.nps.gov/common/uploads/structured_data/2227C337-ED82-5A6C-51C66621DC7012BF.jpg"
+                }
+            ],
+            "weatherOverview": "For seasonal weather conditions, check https://www.nps.gov/acad/planyourvisit/weather.htm.",
+            "numberOfSitesReservable": "281",
+            "numberOfSitesFirstComeFirstServe": "0",
+            "campsites": {
+                "totalSites": "281",
+                "group": "4",
+                "horse": "0",
+                "tentOnly": "221",
+                "electricalHookups": "0",
+                "rvOnly": "60",
+                "walkBoatTo": "0",
+                "other": "0"
+            },
+            "accessibility": {
+                "wheelchairAccess": "There are hard-packed walkways to wheelchair-accessible restrooms and the amphitheater.",
+                "internetInfo": "",
+                "cellPhoneInfo": "Cell service is limited and not reliable.",
+                "fireStovePolicy": "Fire rings and grills are available for use. Do not bring firewood from more than 50 miles away. Help protect our forests from the spread of hidden, tree-killing insects by obtaining firewood from local vendors near the campground.",
+                "rvAllowed": "1",
+                "rvInfo": "Maximum vehicle length is strictly enforced. Camping equipment exceeding maximum length will not be allowed entry into campground. It is your responsiblity to review Site Details and Equipment Allowed before reserving your campsite. If you reserve a campsite and your equipment exceeds the listed limits, you may have your reservation cancelled.",
+                "rvMaxLength": "0",
+                "additionalInfo": "Pets are permitted and must be leashed or caged at all times. Leashes must be six feet (1.8 m) or less in length. Pets may not be left unattended for their safety and for the safety of other visitors and wildlife.",
+                "trailerMaxLength": "0",
+                "adaInfo": "There are 12 accessible drive-in sites, including RV Non-electric and Tent Only Non-electric sites. RV sites have a 35-foot (10.7 m) maximum. There are hard-packed walkways to wheelchair-accessible restrooms and the amphitheater.",
+                "trailerAllowed": "1",
+                "accessRoads": [
+                    "Paved Roads - All vehicles OK"
+                ],
+                "classifications": [
+                    "Developed Campground"
+                ]
+            },
+            "lastIndexedDate": ""
+        },
+        {
+            "id": "C1388F86-68A9-4C1C-85C2-193CD4BD3EE1",
+            "url": "https://www.nps.gov/acad/planyourvisit/duckharbor.htm",
+            "name": "Duck Harbor Campground",
+            "parkCode": "acad",
+            "description": "Duck Harbor Campground is located on Isle au Haut, a rugged island off the coast of Stonington, Maine. This campground has five sites with lean-to shelters and is a great launch point for paddling excursions. Remote and inaccessible to automobiles, Isle au Haut is linked to the mainland by mailboat.",
+            "latitude": "44.0277948996318",
+            "longitude": "-68.6535293990644",
+            "latLong": "{lat:44.0277948996318, lng:-68.6535293990644}",
+            "audioDescription": "Five wood lean-to shelters, three-sided with roof and floor. Dimensions are 8' tall, 8' deep, and 12.5' wide. Sites have fire rings and picnic tables. The campground has a composting vault toilet and a hand pump for water located 1,600 feet from shelters.",
+            "isPassportStampLocation": "0",
+            "passportStampLocationDescription": "",
+            "passportStampImages": [],
+            "geometryPoiId": "9166F791-C506-555D-9F72-D67F9644313B",
+            "reservationInfo": "Reservations are required to camp at Duck Harbor Campground. Reservations are available 7 months in advance of the reservation date.",
+            "reservationUrl": "https://www.recreation.gov/camping/campgrounds/264293",
+            "regulationsurl": "https://www.nps.gov/acad/learn/management/lawsandpolicies.htm",
+            "regulationsOverview": "No pets allowed in the campground. Maximum length of stay is three nights. Campers are limited to one stay per calendar year. Six people are permitted per campsite. All trash must be carried out. Please do not bring your own firewood to reduce the spread of non-native insects. Check-in time and check-out time is 11:00am All campsites must be reserved. Camping without a reservation is prohibited. Arriving Late? You must arrive at your campsite before 11:00am check-out time on the day after your scheduled arrival date. If you cannot arrive by that time, you must call (207) 335-5551 or you will be marked a No Show and incur fees. Quiet hours are from 10 p.m. to 8 a.m. Generator use is prohibited.",
+            "amenities": {
+                "trashRecyclingCollection": "No",
+                "toilets": [
+                    "Composting Toilets - seasonal"
+                ],
+                "internetConnectivity": "No",
+                "showers": [
+                    "None"
+                ],
+                "cellPhoneReception": "No",
+                "laundry": "No",
+                "amphitheater": "No",
+                "dumpStation": "No",
+                "campStore": "No",
+                "staffOrVolunteerHostOnsite": "Yes - seasonal",
+                "potableWater": [
+                    "Yes - seasonal"
+                ],
+                "iceAvailableForSale": "No",
+                "firewoodForSale": "No",
+                "foodStorageLockers": "Yes - seasonal"
+            },
+            "contacts": {
+                "phoneNumbers": [
+                    {
+                        "phoneNumber": "207-335-5551",
+                        "description": "",
+                        "extension": "",
+                        "type": "Voice"
+                    }
+                ],
+                "emailAddresses": [
+                    {
+                        "description": "",
+                        "emailAddress": "acadia_information@nps.gov"
+                    }
+                ]
+            },
+            "fees": [
+                {
+                    "cost": "20.00",
+                    "description": "Fee/per night\nmaximum number of people: 6",
+                    "title": "Tent/Shelter Non-Electric"
+                }
+            ],
+            "directionsOverview": "Isle au Haut and Duck Harbor Campground are inaccessible by car. Campers may boat in to Duck Harbor, or take the Isle au Haut mailboat from Stonington. Check with the Isle au Haut Boat Services for boat schedule. Boat transportation may be limited especially at the beginning and end of the season.",
+            "directionsUrl": "",
+            "operatingHours": [],
+            "addresses": [
+                {
+                    "postalCode": "04609",
+                    "city": "Bar Harbor",
+                    "stateCode": "ME",
+                    "line1": "Acadia National Park, Attn: Duck Harbor Campground, PO Box 177",
+                    "type": "Physical",
+                    "line3": "",
+                    "line2": ""
+                },
+                {
+                    "postalCode": "04609",
+                    "city": "Bar Harbor",
+                    "stateCode": "ME",
+                    "line1": "Acadia National Park, Attn: Duck Harbor Campground, PO Box 177",
+                    "type": "Mailing",
+                    "line3": "",
+                    "line2": ""
+                }
+            ],
+            "images": [
+                {
+                    "credit": "Ashley L. Conti/Friends of Acadia",
+                    "crops": [],
+                    "title": "Isle au Haut Wayfinding Junction",
+                    "altText": "A park ranger and three other adults stand by a wood wayside with area information and directions",
+                    "caption": "You can paddle to your site, or walk in from this trailhead.",
+                    "url": "https://www.nps.gov/common/uploads/structured_data/8A093093-CBCB-F6C2-433B54CDDCDD6107.jpg"
+                }
+            ],
+            "weatherOverview": "",
+            "numberOfSitesReservable": "5",
+            "numberOfSitesFirstComeFirstServe": "0",
+            "campsites": {
+                "totalSites": "5",
+                "group": "0",
+                "horse": "0",
+                "tentOnly": "5",
+                "electricalHookups": "0",
+                "rvOnly": "0",
+                "walkBoatTo": "5",
+                "other": "0"
+            },
+            "accessibility": {
+                "wheelchairAccess": "Isle au Haut and Duck Harbor Campground are not wheelchair-accessible. Terrain is rocky and uneven, and trails are narrow.",
+                "internetInfo": "",
+                "cellPhoneInfo": "",
+                "fireStovePolicy": "Each site has a fire ring. Dead and downed wood may be collected near the campground. Please do not bring your own firewood to reduce the spread of non-native insects.",
+                "rvAllowed": "0",
+                "rvInfo": "RVs and trailers are not allowed in Duck Harbor Campground.",
+                "rvMaxLength": "0",
+                "additionalInfo": "There is a ranger station 4 miles from the campground but only 0.3 miles from the Isle au Haut Town Landing. The ranger station is open mid-April to mid-October, when there are rangers on Isle au Haut for the season. While the rangers are typically out in the field and not at the ranger station during most of the day, the lobby remains open, allowing visitors access to maps, reading material, water, and the only public restroom in town. There is a small, traditional village near the Isle au Haut Town Landing where one can find a general store, seasonal gift shop, a seasonal food shack, and post office.",
+                "trailerMaxLength": "0",
+                "adaInfo": "Duck Harbor Campground and facilities are not accessible. Terrain is uneven, and shelters have a stepped entrance.",
+                "trailerAllowed": "0",
+                "accessRoads": [
+                    "No Roads"
+                ],
+                "classifications": [
+                    "Designated Primitive Campsites"
+                ]
+            },
+            "lastIndexedDate": ""
+        },
+        {
+            "id": "B2B52195-15AB-4E9E-B441-0694F4193585",
+            "url": "https://www.nps.gov/acad/planyourvisit/camping.htm",
+            "name": "Schoodic Woods Campground",
+            "parkCode": "acad",
+            "description": "Schoodic Woods Campground is the newest campground in the park and located 1.5 miles (2.5 km) southeast of Winter Harbor on the Schoodic Peninsula. It is approximately 60-70 minutes from Bar Harbor and other areas of Mount Desert Island.",
+            "latitude": "44.3800630004",
+            "longitude": "-68.0665938",
+            "latLong": "{lat:44.3800630004, lng:-68.0665938}",
+            "audioDescription": "Schoodic Woods Campground is the newest campground in the park and located 1.5 miles (2.5 km) southeast of Winter Harbor on the Schoodic Peninsula. It is approximately 60-70 minutes from Bar Harbor and other areas of Mount Desert Island.",
+            "isPassportStampLocation": "1",
+            "passportStampLocationDescription": "",
+            "passportStampImages": [],
+            "geometryPoiId": "8DA9774A-DAD3-5C46-AA2E-0BF065CEE76A",
+            "reservationInfo": "All Schoodic Woods campsites are reservable up to two months in advance. There are no first-come, first-serve sites. All campsites are by reservation only.",
+            "reservationUrl": "https://www.recreation.gov/camping/campgrounds/251833",
+            "regulationsurl": "https://www.recreation.gov/camping/campgrounds/251833",
+            "regulationsOverview": "All regulations are listed in the \"Need to Know\" section when making reservations on recreation.gov.",
+            "amenities": {
+                "trashRecyclingCollection": "Yes - seasonal",
+                "toilets": [
+                    "Vault Toilets - seasonal",
+                    "Flush Toilets - seasonal"
+                ],
+                "internetConnectivity": "Yes - seasonal",
+                "showers": [
+                    "None"
+                ],
+                "cellPhoneReception": "No",
+                "laundry": "No",
+                "amphitheater": "Yes - seasonal",
+                "dumpStation": "Yes - seasonal",
+                "campStore": "No",
+                "staffOrVolunteerHostOnsite": "Yes - seasonal",
+                "potableWater": [
+                    "Yes - seasonal"
+                ],
+                "iceAvailableForSale": "No",
+                "firewoodForSale": "No",
+                "foodStorageLockers": "No"
+            },
+            "contacts": {
+                "phoneNumbers": [
+                    {
+                        "phoneNumber": "2072881300",
+                        "description": "",
+                        "extension": "",
+                        "type": "Voice"
+                    }
+                ],
+                "emailAddresses": [
+                    {
+                        "description": "",
+                        "emailAddress": "acadia_information@nps.gov"
+                    }
+                ]
+            },
+            "fees": [
+                {
+                    "cost": "22.00",
+                    "description": "This is the nightly/daily rate for hike-in sites. Park entrance fees are separate from campground fees. An entrance pass is required in the park and while staying in the campground.",
+                    "title": "Hike-In Site"
+                },
+                {
+                    "cost": "40.00",
+                    "description": "This is the nightly/daily rate for RV Electric and Water sites. Park entrance fees are separate from campground fees. An entrance pass is required in the park and while staying in the campground.",
+                    "title": "RV Electric and Water"
+                },
+                {
+                    "cost": "30.00",
+                    "description": "This is the nightly/daily rate for Standard Electric sites. Park entrance fees are separate from campground fees. An entrance pass is required in the park and while staying in the campground.",
+                    "title": "Standard Electric"
+                },
+                {
+                    "cost": "30.00",
+                    "description": "This is the nightly/daily rate for Tent Only Electric sites. Park entrance fees are separate from campground fees. An entrance pass is required in the park and while staying in the campground",
+                    "title": "Tent Only Electric"
+                },
+                {
+                    "cost": "60.00",
+                    "description": "This is the nightly/daily rate for Group Tent Only sites. Park entrance fees are separate from campground fees. An entrance pass is required in the park and while staying in the campground.",
+                    "title": "Group Tent Site"
+                },
+                {
+                    "cost": "36.00",
+                    "description": "This is the nightly/daily rate for RV Electric No Water sites. Park entrance fees are separate from campground fees. An entrance pass is required in the park and while staying in the campground.",
+                    "title": "RV Electric No Water"
+                }
+            ],
+            "directionsOverview": "Take I-95 north to Bangor, Maine, then take Route 1A east to Ellsworth. In Ellsworth, head north on U.S. Route 1 for approximately 17.3 miles to Hwy 186. Turn right on Hwy 186 and drive 6.5 miles. Turn left at yield sign, continue .5 miles and turn right on Schoodic Loop Road. Take Schoodic Loop Road for 1.0 mile. Campground will be on your left.",
+            "directionsUrl": "",
+            "operatingHours": [
+                {
+                    "exceptions": [
+                        {
+                            "exceptionHours": {
+                                "wednesday": "Closed",
+                                "monday": "Closed",
+                                "thursday": "Closed",
+                                "sunday": "Closed",
+                                "tuesday": "Closed",
+                                "friday": "Closed",
+                                "saturday": "Closed"
+                            },
+                            "startDate": "2022-10-10",
+                            "name": "Off Season",
+                            "endDate": "2023-05-26"
+                        }
+                    ],
+                    "description": "Schoodic Woods Campground facility is open seasonally from the Wednesday before Memorial Day Weekend until Columbus Day.",
+                    "standardHours": {
+                        "wednesday": "All Day",
+                        "monday": "All Day",
+                        "thursday": "All Day",
+                        "sunday": "All Day",
+                        "tuesday": "All Day",
+                        "friday": "All Day",
+                        "saturday": "All Day"
+                    },
+                    "name": "Schoodic Woods Campground"
+                }
+            ],
+            "addresses": [
+                {
+                    "postalCode": "04693",
+                    "city": "Winter Harbor",
+                    "stateCode": "ME",
+                    "line1": "54 Farview Dr",
+                    "type": "Physical",
+                    "line3": "",
+                    "line2": ""
+                },
+                {
+                    "postalCode": "04693",
+                    "city": "Winter Harbor",
+                    "stateCode": "ME",
+                    "line1": "PO Box 370",
+                    "type": "Mailing",
+                    "line3": "",
+                    "line2": ""
+                }
+            ],
+            "images": [
+                {
+                    "credit": "NPS Photo",
+                    "crops": [],
+                    "title": "Schoodic Woods Ranger Station",
+                    "altText": "A wooden ranger station building with an A-frame style entrance",
+                    "caption": "Campers begin their stay by checking in at Schoodic Woods Ranger Station",
+                    "url": "https://www.nps.gov/common/uploads/structured_data/F709307A-E182-B806-F017579BDC8F364D.jpg"
+                },
+                {
+                    "credit": "Will Newton/Friends of Acadia",
+                    "crops": [],
+                    "title": "Group Camping at Schoodic Woods Campground",
+                    "altText": "A grassy clearing with four tents and people gathered around picnic tables in the background",
+                    "caption": "Pitch some tents with your large group at Schoodic Woods group sites",
+                    "url": "https://www.nps.gov/common/uploads/structured_data/91A5844C-EB5E-C74B-7A9433D649275C92.jpg"
+                },
+                {
+                    "credit": "NPS Photo",
+                    "crops": [],
+                    "title": "Parking Lot for hike-in campsites",
+                    "altText": "A gravel parking area",
+                    "caption": "Campers with hike-in sites can park and walk to their campsite",
+                    "url": "https://www.nps.gov/common/uploads/structured_data/F719878C-01A8-C6D2-35D5A067A963518B.jpg"
+                },
+                {
+                    "credit": "NPS Photo",
+                    "crops": [],
+                    "title": "Schoodic Woods Campground Restrooms",
+                    "altText": "Grey and brown building with restroom facilities",
+                    "caption": "One of the campground restroom buildings",
+                    "url": "https://www.nps.gov/common/uploads/structured_data/F725F4BC-E393-A3F7-FB839769C8BF314C.jpg"
+                }
+            ],
+            "weatherOverview": "For complete weather information, please see https://www.nps.gov/acad/planyourvisit/weather.htm.",
+            "numberOfSitesReservable": "89",
+            "numberOfSitesFirstComeFirstServe": "0",
+            "campsites": {
+                "totalSites": "89",
+                "group": "2",
+                "horse": "0",
+                "tentOnly": "13",
+                "electricalHookups": "78",
+                "rvOnly": "41",
+                "walkBoatTo": "9",
+                "other": "0"
+            },
+            "accessibility": {
+                "wheelchairAccess": "The accessible sites and all restrooms are wheelchair accessible.",
+                "internetInfo": "",
+                "cellPhoneInfo": "Cell phone service is limited or unavailable at this campground.",
+                "fireStovePolicy": "Fire rings and grills are available for use. At all hike-in camp sites, setting, building, maintaining, attending, or using a campfire (including charcoal) is prohibited. Stoves and grills fueled by petroleum fuels such as Liquid Propane Gas (LPG), butane, or white gas are allowed.",
+                "rvAllowed": "1",
+                "rvInfo": "Maximum vehicle length is strictly enforced. Camping equipment exceeding maximum length will not be allowed entry into campground. Check individual sites for allowable equipment, number of vehicles allowed, and driveway details.",
+                "rvMaxLength": "0",
+                "additionalInfo": "Pets are permitted and must be leashed or caged at all times. Leashes must be six feet (1.8 m) or less in length. Pets may not be left unattended for their safety and for the safety of other visitors and wildlife.",
+                "trailerMaxLength": "0",
+                "adaInfo": "Schoodic Woods Campground has 78 ADA camp sites, including tent and RV sites.",
+                "trailerAllowed": "1",
+                "accessRoads": [
+                    "Paved Roads - All vehicles OK"
+                ],
+                "classifications": [
+                    "Developed Campground"
+                ]
+            },
+            "lastIndexedDate": ""
+        },
+        {
+            "id": "B530C7AD-249F-4632-B78F-3CE8C9F3DBDA",
+            "url": "https://www.nps.gov/acad/planyourvisit/seawall-campground.htm",
+            "name": "Seawall Campground",
+            "parkCode": "acad",
+            "description": "Seawall Campground is located on the west side of Mount Desert Island about 4 miles (6 km) south of Southwest Harbor. The campground is approximately 18 miles from Bar Harbor. All sites at Seawall are within a short walking distance of the coastline.",
+            "latitude": "44.2415646998274",
+            "longitude": "-68.3051438998646",
+            "latLong": "{lat:44.2415646998274, lng:-68.3051438998646}",
+            "audioDescription": "Seawall Campground is located on the west side of Mount Desert Island about 4 miles (6 km) south of Southwest Harbor. The campground is approximately 18 miles from Bar Harbor. All sites at Seawall are within a short walking distance of the coastline.",
+            "isPassportStampLocation": "1",
+            "passportStampLocationDescription": "",
+            "passportStampImages": [],
+            "geometryPoiId": "607D8A1B-EDCA-5D82-AA6A-3AFD78304BF8",
+            "reservationInfo": "All Seawall campsites are reservable up to two months in advance. There are no first-come, first-serve sites. All campsites are by reservation only.",
+            "reservationUrl": "https://www.recreation.gov/camping/campgrounds/234674",
+            "regulationsurl": "https://www.recreation.gov/camping/campgrounds/234674",
+            "regulationsOverview": "All regulations are listed in the \"Need to Know\" section when making reservations on recreation.gov.",
+            "amenities": {
+                "trashRecyclingCollection": "Yes - seasonal",
+                "toilets": [
+                    "Flush Toilets - seasonal"
+                ],
+                "internetConnectivity": "No",
+                "showers": [
+                    "None"
+                ],
+                "cellPhoneReception": "No",
+                "laundry": "No",
+                "amphitheater": "Yes - seasonal",
+                "dumpStation": "Yes - seasonal",
+                "campStore": "No",
+                "staffOrVolunteerHostOnsite": "Yes - seasonal",
+                "potableWater": [
+                    "Yes - seasonal"
+                ],
+                "iceAvailableForSale": "No",
+                "firewoodForSale": "No",
+                "foodStorageLockers": "No"
+            },
+            "contacts": {
+                "phoneNumbers": [
+                    {
+                        "phoneNumber": "207-288-3338",
+                        "description": "",
+                        "extension": "",
+                        "type": "Voice"
+                    },
+                    {
+                        "phoneNumber": "207-288-8813",
+                        "description": "",
+                        "extension": "",
+                        "type": "Fax"
+                    },
+                    {
+                        "phoneNumber": "207-288-8800",
+                        "description": "",
+                        "extension": "",
+                        "type": "TTY"
+                    }
+                ],
+                "emailAddresses": [
+                    {
+                        "description": "",
+                        "emailAddress": "acadia_information@nps.gov"
+                    }
+                ]
+            },
+            "fees": [
+                {
+                    "cost": "30.00",
+                    "description": "This is the nightly/daily rate for RV Non-electric sites.\n\nPark entrance fees are separate from campground fees. An entrance pass is required in the park and while staying in the campground. Acadia National Park charges the following entrance fees: $30 per vehicle, $25 per motorcycle, or $15 per person. Visitors may purchase the Acadia National Park annual pass for $55. Buy your Acadia National Park pass online.",
+                    "title": "RV Non-electric"
+                },
+                {
+                    "cost": "60.00",
+                    "description": "This is the nightly/daily rate for Group Tent Only Area - Non-electric sites.\n\nPark entrance fees are separate from campground fees. An entrance pass is required in the park and while staying in the campground. Acadia National Park charges the following entrance fees: $30 per vehicle, $25 per motorcycle, or $15 per person. Visitors may purchase the Acadia National Park annual pass for $55. Buy your Acadia National Park pass online.",
+                    "title": "Group Tent Only Area - Non-electric"
+                },
+                {
+                    "cost": "30.00",
+                    "description": "This is the nightly/daily rate for Standard Non-electric sites.\n\nPark entrance fees are separate from campground fees. An entrance pass is required in the park and while staying in the campground. Acadia National Park charges the following entrance fees: $30 per vehicle, $25 per motorcycle, or $15 per person. Visitors may purchase the Acadia National Park annual pass for $55. Buy your Acadia National Park pass online.",
+                    "title": "Standard Non-electric"
+                },
+                {
+                    "cost": "30.00",
+                    "description": "This is the nightly/daily rate for tent-only sites.\n\nPark entrance fees are separate from campground fees. An entrance pass is required in the park and while staying in the campground. Acadia National Park charges the following entrance fees: $30 per vehicle, $25 per motorcycle, or $15 per person. Visitors may purchase the Acadia National Park annual pass for $55. Buy your Acadia National Park pass online.",
+                    "title": "Tent Only Non-electric"
+                },
+                {
+                    "cost": "22.00",
+                    "description": "This is the nightly/daily rate for walk-in camping sites.\n\nPark entrance fees are separate from campground fees. An entrance pass is required in the park and while staying in the campground. Acadia National Park charges the following entrance fees: $30 per vehicle, $25 per motorcycle, or $15 per person. Visitors may purchase the Acadia National Park annual pass for $55. Buy your Acadia National Park pass online.",
+                    "title": "Walk-in"
+                }
+            ],
+            "directionsOverview": "From Boston, take I-95 north to Augusta, Maine, then Route 3 east to Ellsworth and on to Mount Desert Island. For an alternate route, continue on I-95 north to Bangor, Maine, then take Route 1A east to Ellsworth. In Ellsworth, take Route 3 to Mount Desert Island. At first traffic light on Mount Desert Island, bear right onto Route 102. Stay on 102 for approximately 11.5 miles. You will pass through Somesville and the town of Southwest Harbor. As you leave Southwest Harbor, turn left onto Route 102A and tr",
+            "directionsUrl": "https://www.recreation.gov/camping/campgrounds/234674",
+            "operatingHours": [
+                {
+                    "exceptions": [
+                        {
+                            "exceptionHours": {
+                                "wednesday": "Closed",
+                                "monday": "Closed",
+                                "thursday": "Closed",
+                                "sunday": "Closed",
+                                "tuesday": "Closed",
+                                "friday": "Closed",
+                                "saturday": "Closed"
+                            },
+                            "startDate": "2022-10-10",
+                            "name": "Off Season",
+                            "endDate": "2023-05-24"
+                        }
+                    ],
+                    "description": "Seawall Campground is open seasonally, typically from the Wednesday before Memorial Day to Columbus Day.\n\nThe ranger station is generally open from 9 am to 8 pm during peak season, but hours are subject to change depending on staffing levels.",
+                    "standardHours": {
+                        "wednesday": "All Day",
+                        "monday": "All Day",
+                        "thursday": "All Day",
+                        "sunday": "All Day",
+                        "tuesday": "All Day",
+                        "friday": "All Day",
+                        "saturday": "All Day"
+                    },
+                    "name": "Seawall Campground"
+                }
+            ],
+            "addresses": [
+                {
+                    "postalCode": "04679",
+                    "city": "Southwest Harbor",
+                    "stateCode": "ME",
+                    "line1": "664 Seawall Rd",
+                    "type": "Physical",
+                    "line3": "",
+                    "line2": ""
+                },
+                {
+                    "postalCode": "04609",
+                    "city": "Bar Harbor",
+                    "stateCode": "ME",
+                    "line1": "PO Box 177",
+                    "type": "Mailing",
+                    "line3": "",
+                    "line2": ""
+                }
+            ],
+            "images": [
+                {
+                    "credit": "NPS Photo",
+                    "crops": [],
+                    "title": "Seawall Campground Ranger Station",
+                    "altText": "A wooden building with a flag pole and signs",
+                    "caption": "",
+                    "url": "https://www.nps.gov/common/uploads/structured_data/93215849-F343-1D46-D16A4039056D7386.jpg"
+                },
+                {
+                    "credit": "Joseph Philipson/Friends of Acadia",
+                    "crops": [],
+                    "title": "Seawall Amphitheater",
+                    "altText": "A group of people sit on benches facing a park ranger in front of a wood stage with a lit screen",
+                    "caption": "Attend an evening ranger program at the campground amphitheater.",
+                    "url": "https://www.nps.gov/common/uploads/structured_data/9181013B-BA31-C67E-52EBBF6ED8B2632F.jpg"
+                }
+            ],
+            "weatherOverview": "",
+            "numberOfSitesReservable": "202",
+            "numberOfSitesFirstComeFirstServe": "0",
+            "campsites": {
+                "totalSites": "202",
+                "group": "5",
+                "horse": "0",
+                "tentOnly": "43",
+                "electricalHookups": "0",
+                "rvOnly": "59",
+                "walkBoatTo": "98",
+                "other": "0"
+            },
+            "accessibility": {
+                "wheelchairAccess": "All accessible sites and restrooms are wheelchair accessible.",
+                "internetInfo": "There is no internet access or WiFi.",
+                "cellPhoneInfo": "There is limited or no cell service in the area.",
+                "fireStovePolicy": "Do not bring firewood from more than 50 miles away. Help protect our forests from the spread of hidden, tree-killing insects by obtaining firewood from local vendors near the campground. Grills and fire rings are available for use at campsites. Campfires are only allowed in designated fire rings.",
+                "rvAllowed": "1",
+                "rvInfo": "Maximum vehicle length is due to the tight turning radius of the A-Loop road and the difficulty of staying on the pavement when entering and exiting the back-in campsites. If you bring equipment exceeding the maximum limit, you may be turned away upon arrival. Please help us protect the vegetation around the campsites by respecting the maximum limits.",
+                "rvMaxLength": "20",
+                "additionalInfo": "",
+                "trailerMaxLength": "20",
+                "adaInfo": "This campground has the following accessible sites: 3 RV, 35-foot (10.7 m) maximum; 5 drive-in; 5 walk-in; and one group site. Use the paved road for access to the amphitheater. If staying in the group camping area, use the accessible restroom in the C loop, which is reached by a long, hard-packed ramp.",
+                "trailerAllowed": "1",
+                "accessRoads": [
+                    "Paved Roads - All vehicles OK"
+                ],
+                "classifications": [
+                    "Developed Campground"
+                ]
+            },
+            "lastIndexedDate": ""
+        }
+    ]
+}

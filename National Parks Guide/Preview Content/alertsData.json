@@ -1,0 +1,97 @@
+{
+    "total": "872",
+    "limit": "10",
+    "start": "0",
+    "data": [
+        {
+            "id": "325ECC60-D097-443B-B67F-E22F7BF07142",
+            "url": "",
+            "title": "Charles Pinckney House CLOSED",
+            "parkCode": "chpi",
+            "description": "Due to unforeseen circumstances, the Charles Pinckney historic house will be closed today, July 24, 2022. The grounds remain open until 5 p.m.",
+            "category": "Park Closure",
+            "lastIndexedDate": "2022-07-24 08:45:42.0"
+        },
+        {
+            "id": "D3910AEA-0618-4C12-9FDE-87D946A67FE2",
+            "url": "https://www.nps.gov/malu/planyourvisit/conditions.htm",
+            "title": "Face Masks are Required Indoors at Waco Mammoth National Monument",
+            "parkCode": "waco",
+            "description": "The COVID-19 community level in McLennan County is currently HIGH. Face masks are required for everyone in all NPS buildings and enclosed public transportation, regardless of vaccination status.",
+            "category": "Information",
+            "lastIndexedDate": "2022-07-23 16:48:07.0"
+        },
+        {
+            "id": "D343DB17-FB31-4953-AC43-957033416C4B",
+            "url": "https://www.nps.gov/grca/planyourvisit/grand-canyon-national-park-public-health-update.htm",
+            "title": "Park is in High CDC Community Levels - Face Masks Are Required Indoors - Saturday, July 23, 2022",
+            "parkCode": "grca",
+            "description": "Face masks are required for all individuals over the age of 2 years (regardless of vaccinations status) in park buildings, and on public transportation. Please bring masks with you for your family or group. Details and What's Open with hours of operation.",
+            "category": "Danger",
+            "lastIndexedDate": "2022-07-23 15:11:33.0"
+        },
+        {
+            "id": "4EC41231-BE75-4EBC-918C-ABF18FEA3928",
+            "url": "",
+            "title": "Mask Mandate effective July 22, 2022",
+            "parkCode": "scbl",
+            "description": "Consistent with CDC guidance regarding areas of substantial or high transmission, visitors to Scotts Bluff National Monument, regardless of vaccination status, are required to wear a mask inside all park buildings.",
+            "category": "Information",
+            "lastIndexedDate": "2022-07-23 14:51:59.0"
+        },
+        {
+            "id": "932EF25F-6CAE-4D00-869A-2A3441179C74",
+            "url": "https://inciweb.nwcg.gov/incident/8209/",
+            "title": "Wawona and the Mariposa Grove of Giant Sequoias are closed due to a fire",
+            "parkCode": "yose",
+            "description": "The community of Wawona, Wawona Campground, and the Mariposa Grove of Giant Sequoias are closed. Wawona Road (continuation of Highway 41 into the park) is open, with no stopping or parking from the park's southern boundary to Yosemite West.",
+            "category": "Park Closure",
+            "lastIndexedDate": "2022-07-23 11:52:23.0"
+        },
+        {
+            "id": "D52BD10E-037B-41EB-A350-497A0C5986CB",
+            "url": "https://www.recreation.gov/ticket/facility/10088103",
+            "title": "Cave Tour Reservations Strongly Recommended",
+            "parkCode": "jeca",
+            "description": "Advance cave tour reservations are available on recreation.gov. Reservations are the only way to ensure tickets are available for your party. Walk-up tickets are very limited and are not guaranteed.",
+            "category": "Information",
+            "lastIndexedDate": "2022-07-23 11:09:20.0"
+        },
+        {
+            "id": "BADA2F5F-D86F-40CF-B31B-15D3FDF60567",
+            "url": "https://www.nps.gov/fone/planyourvisit/conditions.htm",
+            "title": "Masks Required to Enter Visitor Center",
+            "parkCode": "fone",
+            "description": "Due to High Covid-19 Community Levels masks are required to enter all Federal Buildings at this time.",
+            "category": "Information",
+            "lastIndexedDate": "2022-07-23 10:59:12.0"
+        },
+        {
+            "id": "AAFF2CD3-A69B-4658-B9BB-8E1C99C14910",
+            "url": "https://www.nps.gov/frhi/planyourvisit/conditions.htm",
+            "title": "Masks Required to Enter Albert Gallatin Home",
+            "parkCode": "frhi",
+            "description": "Due to High Covid-19 Community Levels masks are required to enter all Federal Buildings at this time.",
+            "category": "Information",
+            "lastIndexedDate": "2022-07-23 10:54:14.0"
+        },
+        {
+            "id": "EE3A3E81-BDF6-43B3-BD65-19F0CBC08CB3",
+            "url": "http://marine.weather.gov/showsigwx.php?warnzone=PZZ540&warncounty=marine",
+            "title": "Boaters: Small Craft Advisory is in effect until 3 am on Sunday, July 24.",
+            "parkCode": "pore",
+            "description": "The Nat. Weather Service has issued a Small Craft Advisory for coastal waters between Point Arena and Point Reyes, including Tomales Bay. Winds of 21–33 knots (24–38 mph) and/or steep waves are expected to produce hazardous wave conditions to small craft.",
+            "category": "Caution",
+            "lastIndexedDate": "2022-07-23 10:10:36.0"
+        },
+        {
+            "id": "E098A83F-3800-466A-BFD5-76012E4CE41B",
+            "url": "https://www.nps.gov/grca/learn/news/water-conservation-begins-on-south-rim-july-2022.htm",
+            "title": "Water Conservation Implemented on South Rim - Saturday, July 23, 2022",
+            "parkCode": "grca",
+            "description": "Due to a major waterline break, the park has implemented mandatory Level 2 water conservation measures due to diminished water resources. Hikers on North Kaibab Trail should be prepared to boil or treat water from Bright Angel Creek.",
+            "category": "Danger",
+            "lastIndexedDate": "2022-07-23 09:56:48.0"
+        }
+    ]
+}

@@ -1,0 +1,360 @@
+{
+    "total": "1485",
+    "limit": "10",
+    "start": "0",
+    "data": [
+        {
+            "id": "31234448-AFFD-4530-AE63-2887C39E434C",
+            "url": "https://www.nps.gov/nace/learn/news/join-the-national-park-service-for-the-50th-anniversary-of-the-fort-dupont-park-summer-event-series.htm",
+            "title": "Join the National Park Service for the 50th Anniversary of the Fort Dupont Park Summer Event Series",
+            "parkCode": "cwdw,fodu,nace",
+            "abstract": "Grab your chairs and blankets and join the National Park Service for an evening filled with family-fun and FREE, live music at the Fort Dupont Park Summer Event Series. The 50th Anniversary season will kick-off on Saturday, July 30 with gates opening at 5:30 p.m. and the concert starting at 7 p.m.",
+            "image": {
+                "url": "",
+                "credit": "",
+                "altText": "",
+                "title": "",
+                "description": "",
+                "caption": ""
+            },
+            "relatedParks": [
+                {
+                    "states": "DC,MD,VA",
+                    "parkCode": "cwdw",
+                    "designation": "",
+                    "fullName": "Civil War Defenses of Washington",
+                    "url": "https://www.nps.gov/cwdw/index.htm",
+                    "name": "Civil War Defenses of Washington"
+                },
+                {
+                    "states": "DC",
+                    "parkCode": "fodu",
+                    "designation": "",
+                    "fullName": "Fort Dupont Park",
+                    "url": "https://www.nps.gov/fodu/index.htm",
+                    "name": "Fort Dupont Park"
+                },
+                {
+                    "states": "DC",
+                    "parkCode": "nace",
+                    "designation": "",
+                    "fullName": "National Capital Parks-East",
+                    "url": "https://www.nps.gov/nace/index.htm",
+                    "name": "National Capital Parks-East"
+                }
+            ],
+            "relatedOrganizations": [],
+            "latitude": null,
+            "longitude": null,
+            "geometryPoiId": "",
+            "releaseDate": "2022-07-22 17:16:00.0",
+            "credit": "",
+            "lastIndexedDate": "2022-07-22 17:23:58.0"
+        },
+        {
+            "id": "F989B66E-398F-4CEA-94C2-D36FFAA9DA25",
+            "url": "https://www.nps.gov/grca/learn/news/dragon-fire-grows-at-steady-pace.htm",
+            "title": "Dragon Fire grows at a steady pace to 733 acres",
+            "parkCode": "grca",
+            "abstract": "As of July 22, the Dragon Fire grew to approximately 733 acres and has 47 personnel assigned. The fire spread across the planning area with low to moderate fire behavior. The lightning-caused fire began July 17 and is being allowed to fulfill its natural role in a fire-dependent ecosystem.",
+            "image": {
+                "url": "https://www.nps.gov/grca/learn/news/images/07_21_dragon3.jpg",
+                "credit": "",
+                "altText": "The Dragon Fire is seen below the rim of the canyon with smoke billowing",
+                "title": "07_21_dragon3",
+                "description": "",
+                "caption": "Aerial view of the Dragon Fire from July 21 (NPS Photo/M. Brown)"
+            },
+            "relatedParks": [
+                {
+                    "states": "AZ",
+                    "parkCode": "grca",
+                    "designation": "National Park",
+                    "fullName": "Grand Canyon National Park",
+                    "url": "https://www.nps.gov/grca/index.htm",
+                    "name": "Grand Canyon"
+                }
+            ],
+            "relatedOrganizations": [],
+            "latitude": null,
+            "longitude": null,
+            "geometryPoiId": "",
+            "releaseDate": "2022-07-22 16:48:00.0",
+            "credit": "",
+            "lastIndexedDate": "2022-07-22 19:51:39.0"
+        },
+        {
+            "id": "5F628F99-7A06-4EA8-9925-EAFCE68F44F1",
+            "url": "https://www.nps.gov/grca/learn/news/water-conservation-begins-on-south-rim-july-2022.htm",
+            "title": "Water Conservation Implemented on South Rim of Grand Canyon National Park Due to Water-System Issues",
+            "parkCode": "grca",
+            "abstract": "Effective immediately, Grand Canyon National Park will implement mandatory Level 2 water conservation measures due to diminished water resources. At Level 2, measures require that all concessions operations switch to disposable dishes and utensils; alter menus to use less water for food prep and dish washing; adopt low water use for hotel room cleaning; and serve drinking water at restaurants by request only.",
+            "image": {
+                "url": "https://www.nps.gov/grca/learn/news/images/Mandatory-Water-Conservation_1.jpg",
+                "credit": "",
+                "altText": "A water spigot is seen with the words \"mandatory water conservation\" in red bold letters",
+                "title": "Mandatory Water Conservation",
+                "description": "",
+                "caption": "Mandatory water conservation (NPS Photo)"
+            },
+            "relatedParks": [
+                {
+                    "states": "AZ",
+                    "parkCode": "grca",
+                    "designation": "National Park",
+                    "fullName": "Grand Canyon National Park",
+                    "url": "https://www.nps.gov/grca/index.htm",
+                    "name": "Grand Canyon"
+                }
+            ],
+            "relatedOrganizations": [],
+            "latitude": null,
+            "longitude": null,
+            "geometryPoiId": "",
+            "releaseDate": "2022-07-22 16:39:00.0",
+            "credit": "",
+            "lastIndexedDate": "2022-07-22 19:46:10.0"
+        },
+        {
+            "id": "369F783F-4802-4928-B649-AE654838599D",
+            "url": "https://www.nps.gov/glca/learn/news/20220722.htm",
+            "title": "Tourism in Glen Canyon National Recreation Area Created $410 million in Economic Benefit in 2021",
+            "parkCode": "glca",
+            "abstract": "Glen Canyon National Recreation Area (Glen Canyon NRA) continues to be an economic engine for the region. In 2021, Glen Canyon ranked number 25 in high visitation out of 423 National Park Service units nationwide, with 3.1 million visitors.",
+            "image": {
+                "url": "https://www.nps.gov/glca/learn/news/images/HB-Platform-Aug-2018-6.JPG",
+                "credit": "NPS",
+                "altText": "People stand on a gated platform looking out and taking photos",
+                "title": "Horseshoe Bend Overlook",
+                "description": "",
+                "caption": "Busy tourism Season in Glen Canyon National Recreation Area"
+            },
+            "relatedParks": [
+                {
+                    "states": "AZ,UT",
+                    "parkCode": "glca",
+                    "designation": "National Recreation Area",
+                    "fullName": "Glen Canyon National Recreation Area",
+                    "url": "https://www.nps.gov/glca/index.htm",
+                    "name": "Glen Canyon"
+                }
+            ],
+            "relatedOrganizations": [],
+            "latitude": null,
+            "longitude": null,
+            "geometryPoiId": "",
+            "releaseDate": "2022-07-22 15:43:00.0",
+            "credit": "",
+            "lastIndexedDate": "2022-07-22 21:22:19.0"
+        },
+        {
+            "id": "4C6441E3-01CA-440A-BCAA-93C28DE9662E",
+            "url": "https://www.nps.gov/orgs/1319/bill-kaage-closes-out-39-year-career-with-federal-government.htm",
+            "title": "Bill Kaage closes out 39-year career with federal government",
+            "parkCode": "",
+            "abstract": "William “Bill” Kaage is retiring at the end of July 2022 after 39 years with the federal government. He has served the past eight years as chief for the National Park Service (NPS) Division of Fire and Aviation.",
+            "image": {
+                "url": "https://www.nps.gov/orgs/1319/images/DFAM-DivChiefBillKaageAnnouncementPhoto-20140625.jpg",
+                "credit": "NPS/C BOEHLE",
+                "altText": "Bill Kaage.",
+                "title": "Bill Kaage",
+                "description": "",
+                "caption": "NPS Fire and Aviation Division Chief Bill Kaage will be retiring July 31, 2022."
+            },
+            "relatedParks": [],
+            "relatedOrganizations": [
+                {
+                    "id": "A138E17A-65D0-4D1D-85EE-8AF6EEE7B495",
+                    "url": "",
+                    "name": "Visitor and Resource Protection Directorate"
+                },
+                {
+                    "id": "321CF339-A886-41C6-91E2-ADCC4205DC25",
+                    "url": "http://www.nps.gov/orgs/1965/",
+                    "name": "Wildland Fire Program"
+                },
+                {
+                    "id": "2E26577B-A9BB-461C-BF20-B77038B16E9F",
+                    "url": "http://www.nps.gov/orgs/1319/",
+                    "name": "Fire and Aviation Management"
+                },
+                {
+                    "id": "CCA9B967-C016-4B65-94E8-F8CC3D32FA11",
+                    "url": "http://www.nps.gov/orgs/aviation/",
+                    "name": "Aviation Program"
+                },
+                {
+                    "id": "5B16ABC8-CBCC-4ABD-A49B-F903AFA245FE",
+                    "url": "http://www.nps.gov/orgs/1231/",
+                    "name": "Structural Fire Program"
+                }
+            ],
+            "latitude": null,
+            "longitude": null,
+            "geometryPoiId": "",
+            "releaseDate": "2022-07-22 14:49:00.0",
+            "credit": "",
+            "lastIndexedDate": "2022-07-22 16:59:20.0"
+        },
+        {
+            "id": "B1CD8D06-EC0D-4A05-84E3-70009A19588F",
+            "url": "https://www.nps.gov/wrst/learn/news/federal-subsistence-hunt-for-the-chisana-caribou-herd-in-a-portion-of-unit-12-closed-for-the-2022-season.htm",
+            "title": "FEDERAL SUBSISTENCE HUNT FOR THE CHISANA CARIBOU HERD IN A PORTION OF UNIT 12 CLOSED FOR THE 2022 SEASON",
+            "parkCode": "wrst",
+            "abstract": "The Superintendent of Wrangell-St. Elias National Park and Preserve, under authority delegated by the Federal Subsistence Board, has issued an Emergency Special Action setting a harvest quota of zero and closing the Federal subsistence hunt for the Chisana Caribou Herd in a portion of Unit 12 for the 2022 season.",
+            "image": {
+                "url": "",
+                "credit": "",
+                "altText": "",
+                "title": "",
+                "description": "",
+                "caption": ""
+            },
+            "relatedParks": [
+                {
+                    "states": "AK",
+                    "parkCode": "wrst",
+                    "designation": "National Park & Preserve",
+                    "fullName": "Wrangell - St Elias National Park & Preserve",
+                    "url": "https://www.nps.gov/wrst/index.htm",
+                    "name": "Wrangell - St Elias"
+                }
+            ],
+            "relatedOrganizations": [],
+            "latitude": null,
+            "longitude": null,
+            "geometryPoiId": "",
+            "releaseDate": "2022-07-22 14:39:00.0",
+            "credit": "",
+            "lastIndexedDate": "2022-07-22 18:45:54.0"
+        },
+        {
+            "id": "4244A305-E31E-4272-BE8A-F240FA0154AE",
+            "url": "https://www.nps.gov/hale/learn/news/haleakala-national-park-rangers-rescue-hypothermic-hiker.htm",
+            "title": "Haleakalā National Park Rangers Rescue Hypothermic Hiker",
+            "parkCode": "hale",
+            "abstract": "On Thursday, July 21, at 5:30 am, National Park Service (NPS) rangers received a call from hikers in distress in the area of Kapalaoa Cabin in the Haleakalā Crater. Rangers responded and made contact with three adults and two children suffering from various stages of hypothermia and dehydration.",
+            "image": {
+                "url": "https://www.nps.gov/hale/learn/news/images/NPS-emergency-responders-carry-out-hypothermic-visitor-7_21_22.jpeg",
+                "credit": "",
+                "altText": "NPS emergency responders carry out hypothermic visitor 7_21_22",
+                "title": "National Park Service emergency responders carry out hypothermic visitor 7_21_22",
+                "description": "",
+                "caption": ""
+            },
+            "relatedParks": [
+                {
+                    "states": "HI",
+                    "parkCode": "hale",
+                    "designation": "National Park",
+                    "fullName": "Haleakalā National Park",
+                    "url": "https://www.nps.gov/hale/index.htm",
+                    "name": "Haleakalā"
+                }
+            ],
+            "relatedOrganizations": [],
+            "latitude": null,
+            "longitude": null,
+            "geometryPoiId": "",
+            "releaseDate": "2022-07-22 13:25:00.0",
+            "credit": "",
+            "lastIndexedDate": "2022-07-22 19:41:47.0"
+        },
+        {
+            "id": "213285A4-C5A3-42D7-AA16-0F7486A0499D",
+            "url": "https://www.nps.gov/sitk/learn/news/totem-park-trails-at-medium-risk-for-bear-activity.htm",
+            "title": "“Totem Park\" Trails at Medium Risk for Bear Activity",
+            "parkCode": "sitk",
+            "abstract": "SITKA, ALASKA—The fish are running in Kaasdahéen (Indian River) and bears are once again active in Sitka. Bear sign and human/bear encounters have been reported in Sitka National Historical Park. Due to this recent activity, the park is now at Level 2, Medium Risk (Yellow) for bear activity in accordance with the Human and Bear Management Plan.",
+            "image": {
+                "url": "https://www.nps.gov/sitk/learn/news/images/2021-09-21_Bear_salmon-NPS-Photo-Olivia-Magni-resized.jpg",
+                "credit": "NPS/O. Magni",
+                "altText": "bear with salmon in its mouth",
+                "title": "bear with salmon in its mouth",
+                "description": "",
+                "caption": "Xóots ák.wé? Aaá, xóots áwé (Is that a bear? Yes, that’s a bear.) Shee (Baranof Island) has a dense concentration of xóots or brown bears. You may encounter brown bears at any time of year in the park, but especially during salmon season."
+            },
+            "relatedParks": [
+                {
+                    "states": "AK",
+                    "parkCode": "sitk",
+                    "designation": "National Historical Park",
+                    "fullName": "Sitka National Historical Park",
+                    "url": "https://www.nps.gov/sitk/index.htm",
+                    "name": "Sitka"
+                }
+            ],
+            "relatedOrganizations": [],
+            "latitude": null,
+            "longitude": null,
+            "geometryPoiId": "",
+            "releaseDate": "2022-07-22 12:29:00.0",
+            "credit": "",
+            "lastIndexedDate": "2022-07-22 17:20:10.0"
+        },
+        {
+            "id": "5D43241C-2876-44C7-B091-564074C55F5C",
+            "url": "https://www.nps.gov/seki/learn/news/the-national-park-service-advances-knp-complex-wildfire-tree-hazard-mitigation-project-at-sequoia-and-kings-canyon-national-parks.htm",
+            "title": "The National Park Service Advances KNP Complex Wildfire Tree Hazard Mitigation Project at Sequoia and Kings Canyon National Parks",
+            "parkCode": "seki",
+            "abstract": "Public comment period opens July 22 and runs through August 21 SEQUOIA AND KINGS CANYON NATIONAL PARKS, Calif. July 22, 2022 – The National Park Service (NPS) is announcing the next steps in advancing recovery efforts to mitigate roadside tree hazards resulting from the KNP Complex Wildfire which burned over 88,000 acres of Sequoia and Kings Canyon National Parks (parks) from September through October of 2021. Where moderate to high severity fire crossed roadways, many of the fire-killed trees are now considered tree hazards – meaning they pose a direct risk to human safety and property due to the likelihood of their failure and potential to hit a human or man-made target.",
+            "image": {
+                "url": "",
+                "credit": "",
+                "altText": "",
+                "title": "",
+                "description": "",
+                "caption": ""
+            },
+            "relatedParks": [
+                {
+                    "states": "CA",
+                    "parkCode": "seki",
+                    "designation": "National Parks",
+                    "fullName": "Sequoia & Kings Canyon National Parks",
+                    "url": "https://www.nps.gov/seki/index.htm",
+                    "name": "Sequoia & Kings Canyon"
+                }
+            ],
+            "relatedOrganizations": [],
+            "latitude": null,
+            "longitude": null,
+            "geometryPoiId": "",
+            "releaseDate": "2022-07-22 11:53:00.0",
+            "credit": "",
+            "lastIndexedDate": "2022-07-22 14:56:11.0"
+        },
+        {
+            "id": "916DE0E5-6B76-44C7-8AD2-CB970B3EB621",
+            "url": "https://www.nps.gov/bibe/learn/news/visitor-fatality-on-the-chimneys-trail.htm",
+            "title": "Visitor Fatality on Chimneys Trail",
+            "parkCode": "bibe",
+            "abstract": "On the evening of July 21, Big Bend National Park received notice of a fatality along the Chimneys Trail. Rangers responded, and a deceased 75-year-old male from Houston was located approximately ½ mile from the trailhead. There was no obvious cause of death.",
+            "image": {
+                "url": "https://www.nps.gov/bibe/learn/news/images/BIBE_ChimneysTrail_LookingEastTowardsChimneys_NPSCNegele_2021Jan10.jpg",
+                "credit": "NPS / C. Negele",
+                "altText": "Chimneys Trail",
+                "title": "View along the Chimneys Trail",
+                "description": "",
+                "caption": ""
+            },
+            "relatedParks": [
+                {
+                    "states": "TX",
+                    "parkCode": "bibe",
+                    "designation": "National Park",
+                    "fullName": "Big Bend National Park",
+                    "url": "https://www.nps.gov/bibe/index.htm",
+                    "name": "Big Bend"
+                }
+            ],
+            "relatedOrganizations": [],
+            "latitude": null,
+            "longitude": null,
+            "geometryPoiId": "",
+            "releaseDate": "2022-07-22 10:00:00.0",
+            "credit": "",
+            "lastIndexedDate": "2022-07-22 13:30:20.0"
+        }
+    ]
+}

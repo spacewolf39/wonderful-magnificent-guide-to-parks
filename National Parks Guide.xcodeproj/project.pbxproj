@@ -1,0 +1,603 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 55;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		CB0C9A1D288B3ED400211681 /* NewParksView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB0C9A1C288B3ED400211681 /* NewParksView.swift */; };
+		CB0C9A1F288B420800211681 /* NewThingsToDoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB0C9A1E288B420800211681 /* NewThingsToDoView.swift */; };
+		CB17ECF3287E3F9D00DC9BF5 /* PlaceAnnotationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB17ECF2287E3F9D00DC9BF5 /* PlaceAnnotationView.swift */; };
+		CB43BE67288ECE1A00618599 /* WeatherView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB43BE66288ECE1A00618599 /* WeatherView.swift */; };
+		CB43BE69288ECEEC00618599 /* weatherData.json in Resources */ = {isa = PBXBuildFile; fileRef = CB43BE68288ECEEC00618599 /* weatherData.json */; };
+		CB43BE6B288ED3AB00618599 /* DestinationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB43BE6A288ED3AB00618599 /* DestinationView.swift */; };
+		CB4647382888D127002AC29E /* TestView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB4647372888D127002AC29E /* TestView.swift */; };
+		CB46473C2888D41D002AC29E /* thingsToDo.json in Resources */ = {isa = PBXBuildFile; fileRef = CB46473B2888D41D002AC29E /* thingsToDo.json */; };
+		CB4647422888FFD7002AC29E /* NewActivityView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB4647412888FFD7002AC29E /* NewActivityView.swift */; };
+		CB49A795287B3E3C00EDE358 /* National_Parks_GuideApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB49A794287B3E3C00EDE358 /* National_Parks_GuideApp.swift */; };
+		CB49A797287B3E3C00EDE358 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB49A796287B3E3C00EDE358 /* ContentView.swift */; };
+		CB49A799287B3E3E00EDE358 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CB49A798287B3E3E00EDE358 /* Assets.xcassets */; };
+		CB49A79C287B3E3E00EDE358 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CB49A79B287B3E3E00EDE358 /* Preview Assets.xcassets */; };
+		CB49A7A5287B3E7300EDE358 /* ParksManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB49A7A4287B3E7300EDE358 /* ParksManager.swift */; };
+		CB49A7A7287B4B1300EDE358 /* ParksAPICall.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB49A7A6287B4B1300EDE358 /* ParksAPICall.swift */; };
+		CB49A7A9287B4BD500EDE358 /* ModelData.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB49A7A8287B4BD500EDE358 /* ModelData.swift */; };
+		CB49A7AB287B4BFA00EDE358 /* parksData.json in Resources */ = {isa = PBXBuildFile; fileRef = CB49A7AA287B4BFA00EDE358 /* parksData.json */; };
+		CB4B21B62883846C0093AE89 /* campgroundData.json in Resources */ = {isa = PBXBuildFile; fileRef = CB4B21B52883846C0093AE89 /* campgroundData.json */; };
+		CB6C857F2886DC9A00D4BB78 /* CampgroundView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB6C857E2886DC9A00D4BB78 /* CampgroundView.swift */; };
+		CB6C858528874B0700D4BB78 /* campData.json in Resources */ = {isa = PBXBuildFile; fileRef = CB6C858428874B0700D4BB78 /* campData.json */; };
+		CB6C8587288779B600D4BB78 /* ThingsToDoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB6C8586288779B600D4BB78 /* ThingsToDoView.swift */; };
+		CB6C858D28879E4300D4BB78 /* StringReplace.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB6C858C28879E4300D4BB78 /* StringReplace.swift */; };
+		CB79F86F288B4D5D0094C806 /* CachedAsyncImage in Frameworks */ = {isa = PBXBuildFile; productRef = CB79F86E288B4D5D0094C806 /* CachedAsyncImage */; };
+		CB849A7C288C87C2005CF977 /* NewsReleasesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB849A7B288C87C2005CF977 /* NewsReleasesView.swift */; };
+		CB849A7E288C8A7B005CF977 /* newsData.json in Resources */ = {isa = PBXBuildFile; fileRef = CB849A7D288C8A7A005CF977 /* newsData.json */; };
+		CB849A80288CAD6A005CF977 /* ScrollingHStackModifier.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB849A7F288CAD69005CF977 /* ScrollingHStackModifier.swift */; };
+		CB849A82288D77C2005CF977 /* alertsData.json in Resources */ = {isa = PBXBuildFile; fileRef = CB849A81288D77C2005CF977 /* alertsData.json */; };
+		CB849A84288D7882005CF977 /* AlertsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB849A83288D7882005CF977 /* AlertsView.swift */; };
+		CB9E67E9287EEE5600ABA9D4 /* MenuView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB9E67E8287EEE5600ABA9D4 /* MenuView.swift */; };
+		CBA4B8E5288A03C5009D7945 /* SearchView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CBA4B8E4288A03C5009D7945 /* SearchView.swift */; };
+		CBA4B8E7288AD9A5009D7945 /* WeatherManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = CBA4B8E6288AD9A5009D7945 /* WeatherManager.swift */; };
+		CBAE5BA3288434950030BBF7 /* HoursView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CBAE5BA2288434950030BBF7 /* HoursView.swift */; };
+		CBAE5BA5288434EA0030BBF7 /* ImagesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CBAE5BA4288434EA0030BBF7 /* ImagesView.swift */; };
+		CBB34C60289312E1003A122E /* EventsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CBB34C5F289312E1003A122E /* EventsView.swift */; };
+		CBB34C6228931316003A122E /* eventsData.json in Resources */ = {isa = PBXBuildFile; fileRef = CBB34C6128931316003A122E /* eventsData.json */; };
+		CBB34C64289313EF003A122E /* EventDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CBB34C63289313EF003A122E /* EventDetailView.swift */; };
+		CBB34C6628931597003A122E /* EventsAPICall.swift in Sources */ = {isa = PBXBuildFile; fileRef = CBB34C6528931597003A122E /* EventsAPICall.swift */; };
+		CBB34C68289319F6003A122E /* ButtonStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = CBB34C67289319F6003A122E /* ButtonStyle.swift */; };
+		CBB587362888348900F218D0 /* ActivityFeesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CBB587352888348900F218D0 /* ActivityFeesView.swift */; };
+		CBB58738288835CF00F218D0 /* PetDescView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CBB58737288835CF00F218D0 /* PetDescView.swift */; };
+		CBB5873A2888362F00F218D0 /* BookingDescView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CBB587392888362F00F218D0 /* BookingDescView.swift */; };
+		CBC3A7F9287F8E8C004464D5 /* LocationManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = CBC3A7F8287F8E8C004464D5 /* LocationManager.swift */; };
+		CBC3A7FB287F8EEE004464D5 /* locationMapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CBC3A7FA287F8EEE004464D5 /* locationMapView.swift */; };
+		CBC3A7FE287FA5F7004464D5 /* LoadingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CBC3A7FD287FA5F7004464D5 /* LoadingView.swift */; };
+		CBC3A809287FB5DB004464D5 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = CBC3A808287FB5DB004464D5 /* Extensions.swift */; };
+		CBCDA3A2287C9EAD00E72473 /* PointOfInterest.swift in Sources */ = {isa = PBXBuildFile; fileRef = CBCDA3A1287C9EAD00E72473 /* PointOfInterest.swift */; };
+		CBCDA3A6287DA21B00E72473 /* MapAPICall.swift in Sources */ = {isa = PBXBuildFile; fileRef = CBCDA3A5287DA21B00E72473 /* MapAPICall.swift */; };
+		CBD7B2E628AB3F5900C550C8 /* config.swift in Sources */ = {isa = PBXBuildFile; fileRef = CBD7B2E528AB3F5900C550C8 /* config.swift */; };
+		CBE23AFB2894510100240A02 /* ParkAlertsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CBE23AFA2894510100240A02 /* ParkAlertsView.swift */; };
+		CBE23AFD2894518600240A02 /* AlertDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CBE23AFC2894518600240A02 /* AlertDetailView.swift */; };
+		CBE23AFF2894521900240A02 /* AlertsAPICall.swift in Sources */ = {isa = PBXBuildFile; fileRef = CBE23AFE2894521900240A02 /* AlertsAPICall.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		CB0C9A1C288B3ED400211681 /* NewParksView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewParksView.swift; sourceTree = "<group>"; };
+		CB0C9A1E288B420800211681 /* NewThingsToDoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewThingsToDoView.swift; sourceTree = "<group>"; };
+		CB17ECF2287E3F9D00DC9BF5 /* PlaceAnnotationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlaceAnnotationView.swift; sourceTree = "<group>"; };
+		CB43BE66288ECE1A00618599 /* WeatherView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherView.swift; sourceTree = "<group>"; };
+		CB43BE68288ECEEC00618599 /* weatherData.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = weatherData.json; sourceTree = "<group>"; };
+		CB43BE6A288ED3AB00618599 /* DestinationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DestinationView.swift; sourceTree = "<group>"; };
+		CB4647372888D127002AC29E /* TestView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestView.swift; sourceTree = "<group>"; };
+		CB46473B2888D41D002AC29E /* thingsToDo.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = thingsToDo.json; sourceTree = "<group>"; };
+		CB4647412888FFD7002AC29E /* NewActivityView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NewActivityView.swift; sourceTree = "<group>"; };
+		CB49A791287B3E3C00EDE358 /* National Parks Guide.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "National Parks Guide.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		CB49A794287B3E3C00EDE358 /* National_Parks_GuideApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = National_Parks_GuideApp.swift; sourceTree = "<group>"; };
+		CB49A796287B3E3C00EDE358 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		CB49A798287B3E3E00EDE358 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		CB49A79B287B3E3E00EDE358 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		CB49A7A4287B3E7300EDE358 /* ParksManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ParksManager.swift; sourceTree = "<group>"; };
+		CB49A7A6287B4B1300EDE358 /* ParksAPICall.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ParksAPICall.swift; sourceTree = "<group>"; };
+		CB49A7A8287B4BD500EDE358 /* ModelData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModelData.swift; sourceTree = "<group>"; };
+		CB49A7AA287B4BFA00EDE358 /* parksData.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = parksData.json; sourceTree = "<group>"; };
+		CB4B21B52883846C0093AE89 /* campgroundData.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = campgroundData.json; sourceTree = "<group>"; };
+		CB6C857E2886DC9A00D4BB78 /* CampgroundView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CampgroundView.swift; sourceTree = "<group>"; };
+		CB6C858428874B0700D4BB78 /* campData.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = campData.json; sourceTree = "<group>"; };
+		CB6C8586288779B600D4BB78 /* ThingsToDoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThingsToDoView.swift; sourceTree = "<group>"; };
+		CB6C858C28879E4300D4BB78 /* StringReplace.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StringReplace.swift; sourceTree = "<group>"; };
+		CB849A7B288C87C2005CF977 /* NewsReleasesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewsReleasesView.swift; sourceTree = "<group>"; };
+		CB849A7D288C8A7A005CF977 /* newsData.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = newsData.json; sourceTree = "<group>"; };
+		CB849A7F288CAD69005CF977 /* ScrollingHStackModifier.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollingHStackModifier.swift; sourceTree = "<group>"; };
+		CB849A81288D77C2005CF977 /* alertsData.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = alertsData.json; sourceTree = "<group>"; };
+		CB849A83288D7882005CF977 /* AlertsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlertsView.swift; sourceTree = "<group>"; };
+		CB9E67E8287EEE5600ABA9D4 /* MenuView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuView.swift; sourceTree = "<group>"; };
+		CBA4B8E4288A03C5009D7945 /* SearchView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchView.swift; sourceTree = "<group>"; };
+		CBA4B8E6288AD9A5009D7945 /* WeatherManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherManager.swift; sourceTree = "<group>"; };
+		CBAE5BA2288434950030BBF7 /* HoursView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HoursView.swift; sourceTree = "<group>"; };
+		CBAE5BA4288434EA0030BBF7 /* ImagesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagesView.swift; sourceTree = "<group>"; };
+		CBB34C5F289312E1003A122E /* EventsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EventsView.swift; sourceTree = "<group>"; };
+		CBB34C6128931316003A122E /* eventsData.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = eventsData.json; sourceTree = "<group>"; };
+		CBB34C63289313EF003A122E /* EventDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EventDetailView.swift; sourceTree = "<group>"; };
+		CBB34C6528931597003A122E /* EventsAPICall.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EventsAPICall.swift; sourceTree = "<group>"; };
+		CBB34C67289319F6003A122E /* ButtonStyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonStyle.swift; sourceTree = "<group>"; };
+		CBB587352888348900F218D0 /* ActivityFeesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActivityFeesView.swift; sourceTree = "<group>"; };
+		CBB58737288835CF00F218D0 /* PetDescView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PetDescView.swift; sourceTree = "<group>"; };
+		CBB587392888362F00F218D0 /* BookingDescView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BookingDescView.swift; sourceTree = "<group>"; };
+		CBC3A7F8287F8E8C004464D5 /* LocationManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationManager.swift; sourceTree = "<group>"; };
+		CBC3A7FA287F8EEE004464D5 /* locationMapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = locationMapView.swift; sourceTree = "<group>"; };
+		CBC3A7FC287F9CF5004464D5 /* National-Parks-Guide-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = "National-Parks-Guide-Info.plist"; sourceTree = SOURCE_ROOT; };
+		CBC3A7FD287FA5F7004464D5 /* LoadingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoadingView.swift; sourceTree = "<group>"; };
+		CBC3A808287FB5DB004464D5 /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
+		CBCDA3A1287C9EAD00E72473 /* PointOfInterest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PointOfInterest.swift; sourceTree = "<group>"; };
+		CBCDA3A5287DA21B00E72473 /* MapAPICall.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapAPICall.swift; sourceTree = "<group>"; };
+		CBD7B2E528AB3F5900C550C8 /* config.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = config.swift; sourceTree = "<group>"; };
+		CBE23AFA2894510100240A02 /* ParkAlertsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ParkAlertsView.swift; sourceTree = "<group>"; };
+		CBE23AFC2894518600240A02 /* AlertDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlertDetailView.swift; sourceTree = "<group>"; };
+		CBE23AFE2894521900240A02 /* AlertsAPICall.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlertsAPICall.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		CB49A78E287B3E3C00EDE358 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				CB79F86F288B4D5D0094C806 /* CachedAsyncImage in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		CB49A788287B3E3C00EDE358 = {
+			isa = PBXGroup;
+			children = (
+				CBC3A808287FB5DB004464D5 /* Extensions.swift */,
+				CB49A793287B3E3C00EDE358 /* National Parks Guide */,
+				CB49A792287B3E3C00EDE358 /* Products */,
+				CB79F867288B4CF20094C806 /* Frameworks */,
+			);
+			sourceTree = "<group>";
+		};
+		CB49A792287B3E3C00EDE358 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				CB49A791287B3E3C00EDE358 /* National Parks Guide.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		CB49A793287B3E3C00EDE358 /* National Parks Guide */ = {
+			isa = PBXGroup;
+			children = (
+				CBC3A803287FB3BB004464D5 /* Components */,
+				CBC3A7FC287F9CF5004464D5 /* National-Parks-Guide-Info.plist */,
+				CB49A7A3287B3E4D00EDE358 /* Managers */,
+				CB49A7A2287B3E4600EDE358 /* Views */,
+				CB49A794287B3E3C00EDE358 /* National_Parks_GuideApp.swift */,
+				CB49A798287B3E3E00EDE358 /* Assets.xcassets */,
+				CB49A79A287B3E3E00EDE358 /* Preview Content */,
+			);
+			path = "National Parks Guide";
+			sourceTree = "<group>";
+		};
+		CB49A79A287B3E3E00EDE358 /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				CB49A79B287B3E3E00EDE358 /* Preview Assets.xcassets */,
+				CB49A7A8287B4BD500EDE358 /* ModelData.swift */,
+				CB49A7AA287B4BFA00EDE358 /* parksData.json */,
+				CB4B21B52883846C0093AE89 /* campgroundData.json */,
+				CB6C858428874B0700D4BB78 /* campData.json */,
+				CB46473B2888D41D002AC29E /* thingsToDo.json */,
+				CB849A7D288C8A7A005CF977 /* newsData.json */,
+				CB849A81288D77C2005CF977 /* alertsData.json */,
+				CB43BE68288ECEEC00618599 /* weatherData.json */,
+				CBB34C6128931316003A122E /* eventsData.json */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		CB49A7A2287B3E4600EDE358 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				CBE23B0028980A3700240A02 /* API Calls */,
+				CB49A796287B3E3C00EDE358 /* ContentView.swift */,
+				CB0C9A1C288B3ED400211681 /* NewParksView.swift */,
+				CB17ECF2287E3F9D00DC9BF5 /* PlaceAnnotationView.swift */,
+				CBC3A7FA287F8EEE004464D5 /* locationMapView.swift */,
+				CB9E67E8287EEE5600ABA9D4 /* MenuView.swift */,
+				CBC3A7FD287FA5F7004464D5 /* LoadingView.swift */,
+				CB6C857E2886DC9A00D4BB78 /* CampgroundView.swift */,
+				CB4647412888FFD7002AC29E /* NewActivityView.swift */,
+				CBAE5BA2288434950030BBF7 /* HoursView.swift */,
+				CBAE5BA4288434EA0030BBF7 /* ImagesView.swift */,
+				CB43BE6A288ED3AB00618599 /* DestinationView.swift */,
+				CB6C8586288779B600D4BB78 /* ThingsToDoView.swift */,
+				CBB587352888348900F218D0 /* ActivityFeesView.swift */,
+				CBB58737288835CF00F218D0 /* PetDescView.swift */,
+				CBB587392888362F00F218D0 /* BookingDescView.swift */,
+				CB4647372888D127002AC29E /* TestView.swift */,
+				CBA4B8E4288A03C5009D7945 /* SearchView.swift */,
+				CB849A7B288C87C2005CF977 /* NewsReleasesView.swift */,
+				CB849A83288D7882005CF977 /* AlertsView.swift */,
+				CB43BE66288ECE1A00618599 /* WeatherView.swift */,
+				CBE23AFA2894510100240A02 /* ParkAlertsView.swift */,
+				CBE23AFC2894518600240A02 /* AlertDetailView.swift */,
+				CBB34C5F289312E1003A122E /* EventsView.swift */,
+				CBB34C63289313EF003A122E /* EventDetailView.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		CB49A7A3287B3E4D00EDE358 /* Managers */ = {
+			isa = PBXGroup;
+			children = (
+				CB49A7A4287B3E7300EDE358 /* ParksManager.swift */,
+				CBCDA3A1287C9EAD00E72473 /* PointOfInterest.swift */,
+				CBC3A7F8287F8E8C004464D5 /* LocationManager.swift */,
+				CB6C858C28879E4300D4BB78 /* StringReplace.swift */,
+				CBA4B8E6288AD9A5009D7945 /* WeatherManager.swift */,
+				CB849A7F288CAD69005CF977 /* ScrollingHStackModifier.swift */,
+				CBB34C67289319F6003A122E /* ButtonStyle.swift */,
+				CBD7B2E528AB3F5900C550C8 /* config.swift */,
+			);
+			path = Managers;
+			sourceTree = "<group>";
+		};
+		CB79F867288B4CF20094C806 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		CBC3A803287FB3BB004464D5 /* Components */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Components;
+			sourceTree = "<group>";
+		};
+		CBE23B0028980A3700240A02 /* API Calls */ = {
+			isa = PBXGroup;
+			children = (
+				CBCDA3A5287DA21B00E72473 /* MapAPICall.swift */,
+				CBB34C6528931597003A122E /* EventsAPICall.swift */,
+				CBE23AFE2894521900240A02 /* AlertsAPICall.swift */,
+				CB0C9A1E288B420800211681 /* NewThingsToDoView.swift */,
+				CB49A7A6287B4B1300EDE358 /* ParksAPICall.swift */,
+			);
+			path = "API Calls";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		CB49A790287B3E3C00EDE358 /* National Parks Guide */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = CB49A79F287B3E3E00EDE358 /* Build configuration list for PBXNativeTarget "National Parks Guide" */;
+			buildPhases = (
+				CB49A78D287B3E3C00EDE358 /* Sources */,
+				CB49A78E287B3E3C00EDE358 /* Frameworks */,
+				CB49A78F287B3E3C00EDE358 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "National Parks Guide";
+			packageProductDependencies = (
+				CB79F86E288B4D5D0094C806 /* CachedAsyncImage */,
+			);
+			productName = "National Parks Guide";
+			productReference = CB49A791287B3E3C00EDE358 /* National Parks Guide.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		CB49A789287B3E3C00EDE358 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1340;
+				LastUpgradeCheck = 1340;
+				TargetAttributes = {
+					CB49A790287B3E3C00EDE358 = {
+						CreatedOnToolsVersion = 13.4;
+					};
+				};
+			};
+			buildConfigurationList = CB49A78C287B3E3C00EDE358 /* Build configuration list for PBXProject "National Parks Guide" */;
+			compatibilityVersion = "Xcode 13.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = CB49A788287B3E3C00EDE358;
+			packageReferences = (
+				CB79F86B288B4D510094C806 /* XCRemoteSwiftPackageReference "swiftui-cached-async-image" */,
+			);
+			productRefGroup = CB49A792287B3E3C00EDE358 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				CB49A790287B3E3C00EDE358 /* National Parks Guide */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		CB49A78F287B3E3C00EDE358 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				CBB34C6228931316003A122E /* eventsData.json in Resources */,
+				CB46473C2888D41D002AC29E /* thingsToDo.json in Resources */,
+				CB43BE69288ECEEC00618599 /* weatherData.json in Resources */,
+				CB49A7AB287B4BFA00EDE358 /* parksData.json in Resources */,
+				CB49A79C287B3E3E00EDE358 /* Preview Assets.xcassets in Resources */,
+				CB6C858528874B0700D4BB78 /* campData.json in Resources */,
+				CB849A82288D77C2005CF977 /* alertsData.json in Resources */,
+				CB4B21B62883846C0093AE89 /* campgroundData.json in Resources */,
+				CB849A7E288C8A7B005CF977 /* newsData.json in Resources */,
+				CB49A799287B3E3E00EDE358 /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		CB49A78D287B3E3C00EDE358 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				CB49A797287B3E3C00EDE358 /* ContentView.swift in Sources */,
+				CB849A84288D7882005CF977 /* AlertsView.swift in Sources */,
+				CBCDA3A2287C9EAD00E72473 /* PointOfInterest.swift in Sources */,
+				CBE23AFF2894521900240A02 /* AlertsAPICall.swift in Sources */,
+				CB849A80288CAD6A005CF977 /* ScrollingHStackModifier.swift in Sources */,
+				CBC3A7F9287F8E8C004464D5 /* LocationManager.swift in Sources */,
+				CB0C9A1D288B3ED400211681 /* NewParksView.swift in Sources */,
+				CB49A795287B3E3C00EDE358 /* National_Parks_GuideApp.swift in Sources */,
+				CBB587362888348900F218D0 /* ActivityFeesView.swift in Sources */,
+				CB49A7A9287B4BD500EDE358 /* ModelData.swift in Sources */,
+				CBB58738288835CF00F218D0 /* PetDescView.swift in Sources */,
+				CBC3A7FE287FA5F7004464D5 /* LoadingView.swift in Sources */,
+				CB9E67E9287EEE5600ABA9D4 /* MenuView.swift in Sources */,
+				CBD7B2E628AB3F5900C550C8 /* config.swift in Sources */,
+				CB0C9A1F288B420800211681 /* NewThingsToDoView.swift in Sources */,
+				CB43BE6B288ED3AB00618599 /* DestinationView.swift in Sources */,
+				CB43BE67288ECE1A00618599 /* WeatherView.swift in Sources */,
+				CB49A7A7287B4B1300EDE358 /* ParksAPICall.swift in Sources */,
+				CBB34C6628931597003A122E /* EventsAPICall.swift in Sources */,
+				CBC3A809287FB5DB004464D5 /* Extensions.swift in Sources */,
+				CB49A7A5287B3E7300EDE358 /* ParksManager.swift in Sources */,
+				CB6C858D28879E4300D4BB78 /* StringReplace.swift in Sources */,
+				CB849A7C288C87C2005CF977 /* NewsReleasesView.swift in Sources */,
+				CBE23AFB2894510100240A02 /* ParkAlertsView.swift in Sources */,
+				CBE23AFD2894518600240A02 /* AlertDetailView.swift in Sources */,
+				CBB34C60289312E1003A122E /* EventsView.swift in Sources */,
+				CB6C857F2886DC9A00D4BB78 /* CampgroundView.swift in Sources */,
+				CBB34C64289313EF003A122E /* EventDetailView.swift in Sources */,
+				CBCDA3A6287DA21B00E72473 /* MapAPICall.swift in Sources */,
+				CBAE5BA5288434EA0030BBF7 /* ImagesView.swift in Sources */,
+				CBC3A7FB287F8EEE004464D5 /* locationMapView.swift in Sources */,
+				CB6C8587288779B600D4BB78 /* ThingsToDoView.swift in Sources */,
+				CBA4B8E7288AD9A5009D7945 /* WeatherManager.swift in Sources */,
+				CBB5873A2888362F00F218D0 /* BookingDescView.swift in Sources */,
+				CB4647422888FFD7002AC29E /* NewActivityView.swift in Sources */,
+				CBA4B8E5288A03C5009D7945 /* SearchView.swift in Sources */,
+				CB4647382888D127002AC29E /* TestView.swift in Sources */,
+				CBB34C68289319F6003A122E /* ButtonStyle.swift in Sources */,
+				CBAE5BA3288434950030BBF7 /* HoursView.swift in Sources */,
+				CB17ECF3287E3F9D00DC9BF5 /* PlaceAnnotationView.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		CB49A79D287B3E3E00EDE358 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++17";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.5;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		CB49A79E287B3E3E00EDE358 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++17";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.5;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		CB49A7A0287B3E3E00EDE358 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"National Parks Guide/Preview Content\"";
+				DEVELOPMENT_TEAM = GZD42CTA7M;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "National-Parks-Guide-Info.plist";
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UIRequiredDeviceCapabilities = "location-services";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.5;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.bryan.National-Parks-Guide";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Debug;
+		};
+		CB49A7A1287B3E3E00EDE358 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"National Parks Guide/Preview Content\"";
+				DEVELOPMENT_TEAM = GZD42CTA7M;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "National-Parks-Guide-Info.plist";
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UIRequiredDeviceCapabilities = "location-services";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.5;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.bryan.National-Parks-Guide";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		CB49A78C287B3E3C00EDE358 /* Build configuration list for PBXProject "National Parks Guide" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CB49A79D287B3E3E00EDE358 /* Debug */,
+				CB49A79E287B3E3E00EDE358 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		CB49A79F287B3E3E00EDE358 /* Build configuration list for PBXNativeTarget "National Parks Guide" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CB49A7A0287B3E3E00EDE358 /* Debug */,
+				CB49A7A1287B3E3E00EDE358 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		CB79F86B288B4D510094C806 /* XCRemoteSwiftPackageReference "swiftui-cached-async-image" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/lorenzofiamingo/swiftui-cached-async-image";
+			requirement = {
+				branch = main;
+				kind = branch;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		CB79F86E288B4D5D0094C806 /* CachedAsyncImage */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = CB79F86B288B4D510094C806 /* XCRemoteSwiftPackageReference "swiftui-cached-async-image" */;
+			productName = CachedAsyncImage;
+		};
+/* End XCSwiftPackageProductDependency section */
+	};
+	rootObject = CB49A789287B3E3C00EDE358 /* Project object */;
+}
